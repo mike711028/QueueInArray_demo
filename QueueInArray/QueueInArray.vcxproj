@@ -122,6 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="demo.cpp" />
+    <ClCompile Include="Dequeue.cpp" />
     <ClCompile Include="IsEmpty.cpp" />
     <ClCompile Include="Enqueue.cpp" />
     <ClCompile Include="ListArray.cpp" />

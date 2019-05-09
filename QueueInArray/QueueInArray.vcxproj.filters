@@ -35,5 +35,8 @@
     <ClCompile Include="IsEmpty.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Dequeue.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

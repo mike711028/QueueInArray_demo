@@ -22,7 +22,11 @@ public:
 
 	void Enqueue(int key);
 
+	void Dequeue();
+
 	void ListArray();
+
+	
 
 
 	

@@ -6,12 +6,18 @@ int main()
 {
 	Queue Q;
 
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 3; i++)
 	{
 		Q.Enqueue(i);
 	}
-	
-	Q.Enqueue(100);
+
+	Q.ListArray();
+
+
+	for (int i = 0; i < 3; i++)
+	{
+		Q.Dequeue();
+	}
 
 	Q.ListArray();
 
